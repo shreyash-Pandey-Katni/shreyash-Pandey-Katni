@@ -51,4 +51,4 @@ My interest lies in Full Stack Development and Machine Learning. I am a B.Tech g
 ---
 
 
-[![Shreyash's Github Stats](https://github-readme-stats.vercel.app/api?username=shreyashjiodndian2&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreyash's Github Stats](https://github-readme-stats.vercel.app/api?username=shreyashjiodndian2&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
