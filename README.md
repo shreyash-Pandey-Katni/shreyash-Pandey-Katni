@@ -9,7 +9,7 @@ My interest lies in Full Stack Development and Machine Learning. I am a B.Tech g
 ### About Me:
 
 - 🔭 I’m currently working on Nodejs, Python, JavaScript
-- 🌱 I’m currently learning React Native and GraphQL
+- 🌱 I’m currently learning Graph Neural Networks
 - 👨🏻‍💻 Most of my projects are available on Github
 - 💬 Ask me about anything. I am happy to help
 - 📫 How to reach me: shreyash.pandey.katni@gmail.com
