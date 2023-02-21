@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Shreyash kumar pandey
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shreyashjiodndian2.shreyashjiodndian2)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shreyash-Pandey-Katni.shreyash-Pandey-Katni)
 
 My interest lies in Full Stack Development and Machine Learning. I am a B.Tech graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).I am Web Service Director in Rotaract Club of Bangalore BIT and strategy co-ordinator in IEDC, E-cell of college. I like participating in Hackathons and organising them. During my free time, I love reading novels (preferably self-help or finance).
 
-<img align="right" width="320" src="https://github.com/Shreyashjiodndian2/Shreyashjiodndian2/blob/main/developer.gif?raw=true" />
+<img align="right" width="320" src="https://github.com/shreyash-Pandey-Katni/shreyash-Pandey-Katni/blob/main/developer.gif?raw=true" />
 
 ### About Me:
 
@@ -54,5 +54,5 @@ My interest lies in Full Stack Development and Machine Learning. I am a B.Tech g
 ---
 
 
-[![Shreyash's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shreyashjiodndian2&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![snake gif](https://github.com/Shreyashjiodndian2/Shreyashjiodndian2/blob/output/github-contribution-grid-snake.gif)
+[![Shreyash's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shreyash-Pandey-Katni&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/Shreyashjiodndian2/shreyash-Pandey-Katni/blob/output/github-contribution-grid-snake.gif)
