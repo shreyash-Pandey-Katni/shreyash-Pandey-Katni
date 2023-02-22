@@ -55,4 +55,4 @@ My interest lies in Full Stack Development and Machine Learning. I am Software E
 
 
 [![Shreyash's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shreyash-Pandey-Katni&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![snake gif](https://github.com/Shreyashjiodndian2/shreyash-Pandey-Katni/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/shreyash-Pandey-Katni/shreyash-Pandey-Katni/blob/output/github-contribution-grid-snake.gif)
