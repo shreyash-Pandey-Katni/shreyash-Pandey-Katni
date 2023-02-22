@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shreyash-Pandey-Katni.shreyash-Pandey-Katni)
 
-My interest lies in Full Stack Development and Machine Learning. I am a B.Tech graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).I am Web Service Director in Rotaract Club of Bangalore BIT and strategy co-ordinator in IEDC, E-cell of college. I like participating in Hackathons and organising them. During my free time, I love reading novels (preferably self-help or finance).
+My interest lies in Full Stack Development and Machine Learning. I am Software Engineer in Software AG. I am a B.Tech graduate in Computer Science from the Bangalore Institute of Technology. I was a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).I was Web Service Director in Rotaract Club of Bangalore BIT and strategy co-ordinator in IEDC, E-cell of college. I like participating in Hackathons and organising them. During my free time, I love reading novels (preferably self-help or finance).
 
 <img align="right" width="320" src="https://github.com/shreyash-Pandey-Katni/shreyash-Pandey-Katni/blob/main/developer.gif?raw=true" />
 
