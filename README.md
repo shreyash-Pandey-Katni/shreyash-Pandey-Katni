@@ -12,7 +12,7 @@ My interest lies in Full Stack Development and Machine Learning. I am Software E
 - 🌱 I’m currently learning Graph Neural Networks
 - 👨🏻‍💻 Most of my projects are available on Github
 - 💬 Ask me about anything. I am happy to help
-- 📫 How to reach me: shreyash.pandey.katni@gmail.com
+- 📫 How to reach me: https://www.shreyash.co.in/
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript
 
 ### Connect me with
